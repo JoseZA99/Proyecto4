@@ -26,7 +26,6 @@ El programa nos brinda un promedio de las senales de 0.003796 y 0.1499 por lo qu
 (20%) Determine y grafique la densidad espectral de potencia para la señal modulada senal_Tx.
 
 
-.![Realizaciones del proceso](https://user-images.githubusercontent.com/86119386/125563533-ef8b7619-1b92-4365-98e9-e1c173faa2bb.png)
 
 
 
